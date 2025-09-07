@@ -2,3 +2,4 @@ Git Linux Cheatsheet
 
 Linux Cheatsheet
 1. pwd, displays the current working directory
+2. mkdir my_directory, creates a new directory name "my_directory"
