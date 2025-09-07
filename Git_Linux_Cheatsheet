@@ -8,3 +8,4 @@ Linux Cheatsheet
 5. rm file.txt, deletes the file named "file.txt"
 6. cp -r directory destination, copies the directory  "directory" and its contents to the specified destination
 7. mv file.txt new_name.txt, renames the file "file.txt" to "new_name.txt"
+8. touch file.txt, creates an empty file named "file.txt"
