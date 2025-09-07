@@ -3,3 +3,4 @@ Git Linux Cheatsheet
 Linux Cheatsheet
 1. pwd, displays the current working directory
 2. mkdir my_directory, creates a new directory name "my_directory"
+3. cd /path/to/directory, changes the current directory to the specified directory
