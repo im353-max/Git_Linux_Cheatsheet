@@ -13,3 +13,4 @@ Linux Cheatsheet
 Git Cheatsheet
 1. git init, initialize an existing directory as a Git repository
 2. git status, show modified files in working directory, staged for your next commit
+3. git log, show all commits in the current branch's history
