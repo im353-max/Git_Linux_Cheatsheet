@@ -6,3 +6,4 @@ Linux Cheatsheet
 3. cd /path/to/directory, changes the current directory to the specified directory
 4. ls -l, displays files and directories with detailed informatio
 5. rm file.txt, deletes the file named "file.txt"
+6. cp -r directory destination, copies the directory  "directory" and its contents to the specified destination
