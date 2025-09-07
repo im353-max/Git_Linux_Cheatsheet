@@ -4,4 +4,5 @@ Linux Cheatsheet
 1. pwd, displays the current working directory
 2. mkdir my_directory, creates a new directory name "my_directory"
 3. cd /path/to/directory, changes the current directory to the specified directory
-4. ls -l, displays files and directories with detailed information
+4. ls -l, displays files and directories with detailed informatio
+5. rm file.txt, deletes the file named "file.txt"
