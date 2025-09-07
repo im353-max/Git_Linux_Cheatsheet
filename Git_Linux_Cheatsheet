@@ -16,3 +16,4 @@ Git Cheatsheet
 3. git log, show all commits in the current branch's history
 4. git pull, fetch and merge any commits from the tracking remote branch
 5. git stash, save modified and staged changes
+6. git stash pop, write working from top of stash stock
